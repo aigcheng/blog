@@ -1,0 +1,23 @@
+{
+  "name": "reg-check",
+  "version": "1.0.0",
+  "description": "regular check utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cderek/reg-check.git"
+  },
+  "keywords": [
+    "regular",
+    "check"
+  ],
+  "author": "cderek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cderek/reg-check/issues"
+  },
+  "homepage": "https://github.com/cderek/reg-check#readme"
+}
