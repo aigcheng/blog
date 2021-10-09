@@ -1,6 +1,6 @@
 {
-  "name": "@acheng/reg-check",
-  "version": "1.0.0",
+  "name": "@cderek/reg-check",
+  "version": "0.0.1",
   "description": "regular check utils",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/cderek/reg-check.git"
   },
-  "keywords": [
-    "regular",
-    "check"
-  ],
+  "keywords": ["regular", "check"],
   "author": "cderek",
   "license": "ISC",
   "bugs": {
