@@ -1,5 +1,5 @@
 {
-  "name": "reg-check",
+  "name": "@acheng/reg-check",
   "version": "1.0.0",
   "description": "regular check utils",
   "main": "index.js",
